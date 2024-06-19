@@ -1,2 +1,2 @@
 # Mondrian-Project
-Using HTML and CSS creating a painting inspired from Piet Mondrian (Dutch painter)
+Using HTML and CSS creating a painting,inspired by Piet Mondrian (Dutch painter)
